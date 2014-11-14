@@ -9,7 +9,7 @@ body {
 
 .textbox {
 	margin: 0 auto;
-	background-color: bisque;
+	background-color: #faebd7;
 	padding: 30px;
 	width: 600px;
 	border-radius: 25px;
@@ -23,4 +23,9 @@ body {
 	margin-right: auto;
 	border-radius: 25px;
 	border: 2px solid black;
+}
+
+
+a {
+	color: #454343;
 }
