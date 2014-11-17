@@ -1,5 +1,7 @@
 body {
-  background-color: #454343; }
+  background-color: #2E2E2E;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300; }
 
 .heading {
   text-align: center;
@@ -7,9 +9,9 @@ body {
 
 .textbox {
   margin: 0 auto;
-  background-color: #faebd7;
+  background-color: #e7e2da;
   padding: 30px;
-  width: 600px;
+  width: 700px;
   border-radius: 25px;
   text-align: center;
   border: 2px solid black; }
