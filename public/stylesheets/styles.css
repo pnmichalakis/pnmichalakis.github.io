@@ -1,6 +1,6 @@
 body {
   /* Background pattern from subtlepatterns.com */
-  background-image: url("footer_lodyas.png");
+  background-image: url("escheresque_ste.png");
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300; }
 
@@ -10,7 +10,7 @@ body {
 
 .textbox {
   margin: 0 auto;
-  background-color: #e7e2da;
+  background-color: #d3d3d3;
   padding: 30px;
   width: 400px;
   border-radius: 25px;
