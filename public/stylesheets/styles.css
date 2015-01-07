@@ -6,7 +6,7 @@ body {
 
 .heading {
   text-align: center;
-  color: #FF6600; }
+  color: #d3d3d3; }
 
 .textbox {
   margin: 0 auto;
@@ -22,7 +22,9 @@ body {
   margin-left: auto;
   margin-right: auto;
   border-radius: 25px;
-  border: 2px solid black; }
+  border: 2px solid black;
+  height: 300px;
+  width: 450px; }
 
 a {
   color: #454343; }
