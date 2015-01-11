@@ -51,20 +51,9 @@ a {
 	width: 200px;
 }
 
-@media (min-width: 400px) {
-	body{
+@media (max-width: 400px) {
+	body {
 	display: block;
-	}
-	.photo {
-	padding-right: 20px;
 	}
 }
 
-@media (min-width: 550px) {
-	body{
-	display: block;
-	}
-	.photo{
-	padding-right: 20px;
-	}
-}
