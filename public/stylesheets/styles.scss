@@ -50,3 +50,15 @@ a {
 .button {
 	width: 200px;
 }
+
+@media (min-width: 400px) {
+	body{
+	display: block;
+	}
+}
+
+@media (min-width: 550px) {
+	body{
+	display: block;
+	}
+}
