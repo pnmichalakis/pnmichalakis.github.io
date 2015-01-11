@@ -17,15 +17,29 @@ body {
   text-align: center;
   margin-right: 300px; }
 
-.picture {
-  float: left;
-  display: block;
-  border-radius: 25px;
-  height: 200px;
-  width: 300px;
-  margin-left: 300px; }
+.photo {
+  border-radius: 10px; }
 
 a {
   color: #454343; }
+
+.info {
+  background-color: white;
+  border-radius: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px; }
+
+#portfoliodiv {
+  text-align: center;
+  color: white; }
+
+#contactsdiv {
+  color: white;
+  text-align: center; }
+
+.button {
+  width: 200px; }
 
 /*# sourceMappingURL=styles.css.map */
