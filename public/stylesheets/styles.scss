@@ -11,25 +11,23 @@ body {
 }
 
 .textbox {
-	margin: 0 auto;
+	float: right;
 	background-color: #d3d3d3;
 	padding: 30px;
 	width: 400px;
 	border-radius: 25px;
 	text-align: center;
-	border: 2px solid black;
+	margin-right: 300px;
 }
 
 .picture {
+	float:left;
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
 	border-radius: 25px;
-	border: 2px solid black;
-	height: 300px;
-	width: 450px;
+	height: 200px;
+	width: 300px;
+	margin-left: 300px;
 }
-
 
 a {
 	color: #454343;
