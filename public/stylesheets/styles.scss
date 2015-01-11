@@ -55,10 +55,16 @@ a {
 	body{
 	display: block;
 	}
+	.photo {
+	padding-right: 20px;
+	}
 }
 
 @media (min-width: 550px) {
 	body{
 	display: block;
+	}
+	.photo{
+	padding-right: 20px;
 	}
 }
