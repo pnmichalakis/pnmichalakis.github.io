@@ -22,6 +22,7 @@ body {
 
 .photo {
 	border-radius: 10px;
+	margin-right: 10px;
 }
 
 a {
@@ -50,10 +51,3 @@ a {
 .button {
 	width: 200px;
 }
-
-@media (max-width: 400px) {
-	body {
-	display: block;
-	}
-}
-

@@ -18,7 +18,8 @@ body {
   margin-right: 300px; }
 
 .photo {
-  border-radius: 10px; }
+  border-radius: 10px;
+  margin-right: 10px; }
 
 a {
   color: #454343; }
@@ -41,9 +42,5 @@ a {
 
 .button {
   width: 200px; }
-
-@media (max-width: 400px) {
-  body {
-    display: block; } }
 
 /*# sourceMappingURL=styles.css.map */
